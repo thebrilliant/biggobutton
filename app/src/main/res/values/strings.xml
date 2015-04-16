@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Push Me Button</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Push Me!</string>
+</resources>
